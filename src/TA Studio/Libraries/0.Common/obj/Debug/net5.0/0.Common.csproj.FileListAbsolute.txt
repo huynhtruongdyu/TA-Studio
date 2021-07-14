@@ -1,0 +1,12 @@
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\bin\Debug\net5.0\0.Common.deps.json
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\bin\Debug\net5.0\0.Common.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\bin\Debug\net5.0\ref\0.Common.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\bin\Debug\net5.0\0.Common.pdb
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.csproj.AssemblyReference.cache
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.AssemblyInfoInputs.cache
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.AssemblyInfo.cs
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.csproj.CoreCompileInputs.cache
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\ref\0.Common.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\0.Common\obj\Debug\net5.0\0.Common.pdb

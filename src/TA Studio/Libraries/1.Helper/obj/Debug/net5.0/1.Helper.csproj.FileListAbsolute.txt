@@ -1,0 +1,11 @@
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\bin\Debug\net5.0\1.Helper.deps.json
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\bin\Debug\net5.0\1.Helper.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\bin\Debug\net5.0\ref\1.Helper.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\bin\Debug\net5.0\1.Helper.pdb
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.AssemblyInfoInputs.cache
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.AssemblyInfo.cs
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.csproj.CoreCompileInputs.cache
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\ref\1.Helper.dll
+C:\Users\T480\Desktop\TA Studio\src\TA Studio\Libraries\1.Helper\obj\Debug\net5.0\1.Helper.pdb
